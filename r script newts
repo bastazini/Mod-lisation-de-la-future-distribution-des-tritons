@@ -3,7 +3,9 @@ library(scrubr)
 library(maps)
 
 ##species
-myspecies <- c( "Pleurodeles waltl",
+myspecies <- c( "Calotriton asper",
+                "Calotriton arnoldi" ,
+"Pleurodeles waltl",
                "Triturus cristatu",
                "Triturus marmoratus",
                "Triturus pygmaeus",
